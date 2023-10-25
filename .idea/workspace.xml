@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72a9e683-8183-47ef-80c1-96e9f443b2da" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1td808P6hhwBMsDietXZ9qGTFgS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ticket" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_project\xiaotao\src\main\resources\mybatis" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.xiaotao.controler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XiaotaoApplication">
+    <configuration name="StrSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaotao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xiaotao.controler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.xiaotao.controler" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xiaotao.controler.StrSearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaotaoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaotao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xiaotao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.xiaotao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xiaotao.XiaotaoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaotaoApplicationTests.ownItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaotao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xiaotao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.xiaotao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xiaotao.XiaotaoApplicationTests" />
+      <option name="METHOD_NAME" value="ownItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaotaoApplicationTests.testSel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaotao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xiaotao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.xiaotao" />
+      <option name="MAIN_CLASS_NAME" value="com.example.xiaotao.XiaotaoApplicationTests" />
+      <option name="METHOD_NAME" value="testSel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaotaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="xiaotao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.xiaotao.XiaotaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.XiaotaoApplication" />
+        <item itemvalue="JUnit.StrSearchTest" />
+        <item itemvalue="JUnit.XiaotaoApplicationTests.ownItem" />
+        <item itemvalue="JUnit.XiaotaoApplicationTests.testSel" />
+        <item itemvalue="JUnit.XiaotaoApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="72a9e683-8183-47ef-80c1-96e9f443b2da" name="默认变更列表" comment="" />
+      <created>1623087382575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623087382575</updated>
+      <workItem from="1623087386540" duration="2173000" />
+      <workItem from="1623089599796" duration="1230000" />
+      <workItem from="1623090861446" duration="3883000" />
+      <workItem from="1623130346529" duration="7437000" />
+      <workItem from="1623170153834" duration="1894000" />
+      <workItem from="1623213993608" duration="6781000" />
+      <workItem from="1623239011359" duration="3052000" />
+      <workItem from="1623319602966" duration="3675000" />
+      <workItem from="1623328099838" duration="38000" />
+      <workItem from="1623413243271" duration="3243000" />
+      <workItem from="1623484264196" duration="2155000" />
+      <workItem from="1623500505865" duration="99000" />
+      <workItem from="1639528961960" duration="595000" />
+      <workItem from="1640052094163" duration="4678000" />
+      <workItem from="1640331779992" duration="34000" />
+      <workItem from="1640340024980" duration="6545000" />
+      <workItem from="1640663586206" duration="12000" />
+      <workItem from="1653979862689" duration="1873000" />
+      <workItem from="1654412868796" duration="3737000" />
+      <workItem from="1654613613300" duration="1070000" />
+      <workItem from="1654772411771" duration="656000" />
+      <workItem from="1659071712595" duration="181000" />
+      <workItem from="1659071917623" duration="608000" />
+      <workItem from="1677045914664" duration="21000" />
+      <workItem from="1677045949031" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
